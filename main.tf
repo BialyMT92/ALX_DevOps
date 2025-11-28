@@ -5,3 +5,4 @@ resource "aws_s3_bucket" "ci_cd_bucket" {
     ManagedBy   = "bialy_GitHubActions"
   }
 }
+
